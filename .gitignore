@@ -1,4 +1,6 @@
 .venv/
 __pycache__/
+*.pkl
+data/
+models/
 .DS_Store
-*.pyc
